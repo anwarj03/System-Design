@@ -22,4 +22,6 @@ Start with requirements and rough load estimates, sketch the request path, then 
 
 The lesson order and titles are included for navigation. Source: [Designed to Scale](https://designed-to-scale.vercel.app/), by [Dilum Sanjaya](https://x.com/DilumSanjaya). Explanations and diagrams here are independently written. No course screenshots or lesson paragraphs are reproduced.
 
+## Protocol Explorer — Security protocols
 
+Independent notes on the nine protocols in the **Security** category of [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/), designed by [Dilum Sanjaya](https://x.com/DilumSanjaya): [HTTPS](protocol-security/https.md), [DNS over HTTPS](protocol-security/dns-over-https.md), [DNSSEC](protocol-security/dnssec.md), [WPA3](protocol-security/wpa3.md), [RADIUS / 802.1X](protocol-security/radius-8021x.md), [SSH](protocol-security/ssh.md), [TLS](protocol-security/tls.md), [WireGuard](protocol-security/wireguard.md), and [IPsec](protocol-security/ipsec.md). See the [section index](protocol-security/README.md) for a comparison table and study prompts. Explanations and diagrams are independently written; no site screenshots or lesson paragraphs are reproduced.
