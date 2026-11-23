@@ -22,8 +22,4 @@ Start with requirements and rough load estimates, sketch the request path, then 
 
 The lesson order and titles are included for navigation. Source: [Designed to Scale](https://designed-to-scale.vercel.app/), by [Dilum Sanjaya](https://x.com/DilumSanjaya). Explanations and diagrams here are independently written. No course screenshots or lesson paragraphs are reproduced.
 
-## Progress
 
-- [x] Reviewed opening outlines and learning objectives for all 40 lessons
-- [x] Drafted original summaries for all 40 lessons
-- [ ] Add personal reflections after revisiting each interactive lesson
